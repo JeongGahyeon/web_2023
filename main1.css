@@ -1,0 +1,96 @@
+html{font-family: 'Noto Sans KR', sans-serif;
+font-family: 'Noto Serif KR', serif;}
+body,h1,h2,p{margin: 0;padding: 0}
+h1{color: blue; line-height:150px;font-size: 7rem;margin-top: 100px;
+	font-weight: 600}
+.title{font-size: 1.8rem;font-weight: 500;color: blue;line-height: 50px;
+	letter-spacing: 2px;margin-top: 180px;margin-bottom: 300px}
+.wrap{width: 1500px;margin: auto;position: relative;}
+
+/*이미지*/
+.ar{position: absolute;top:190px;left: 810px}
+.sc{position: absolute;top:-380px;right: 900px}
+.ne{position: absolute;top:980px;right: 40px}
+.drop{position: absolute;top:1420px;right: 240px}
+.drop{position: absolute;top:1480px;right: 240px}
+.ne_b{position: absolute;top:860px;right: -100px}
+.p{position: absolute;top:1850px;right: -20px;}
+.dc{position: absolute;top:-830px;left: 470px}
+.bb{position: absolute;top:-90px;left: 750px}
+
+/*본문 텍스트*/
+.s1{color: blue; line-height:150px;font-size: 6rem;
+	font-weight: 600;text-align: right;margin: auto;}
+.s1-1{font-weight: 500;font-size: 1.7rem;text-align: right;margin-top: 450px}
+.s1-2{font-weight: 500;font-size: 1.7rem;text-align: right;margin-top: 10px;}
+.s2{color: blue; line-height:130px;font-size: 6rem;
+	font-weight: 600;text-align: left;margin: auto;margin-top: 50px}
+.s2-1{font-weight: 500;font-size: 1.7rem;text-align: left;margin-top: 400px;
+	color: white}
+.s2-2{font-weight: 500;font-size: 1.7rem;text-align: left;margin-top: 10px;}
+.s3-1{font-weight: 500;font-size: 1.7rem;text-align: left;margin-top: 700px;
+	color: white}
+.s3-2{font-weight: 500;font-size: 1.7rem;text-align: left;margin-top: 10px;
+	color: black}
+.S4{margin-top: 300px}
+.s4{color: blue; line-height:130px;font-size: 6rem;
+	font-weight: 600;text-align: center;margin: auto;margin-top: -900px}
+.s4-1{font-weight: 500;font-size: 1.7rem;text-align: center;margin-top: 10px;
+	color: black;margin-top: 30px}
+.s4_1{color: blue; line-height:130px;font-size: 6rem;
+	font-weight: 600;text-align: left;margin: auto;margin-top: 800px}
+.s4-2{font-weight: 500;font-size: 1.7rem;text-align: left;margin-top: 50px;
+	color: black;line-height: 45px}
+
+
+/*main*/ 
+.main_t{color: blue; line-height:130px;font-size: 6rem;
+	font-weight: 600;text-align: center;margin: auto;margin-top: 800px}
+.main_1{font-weight: 500;font-size: 1.7rem;text-align: center;margin-top: 10px;
+	color: black;margin-top: 30px}
+.main1-1{font-weight: 500;font-size: 1.4rem;text-align: center;margin-top: 10px;
+	color: black;margin-top: 30px;color: darkslategray}
+
+
+.wrap_1{width: 1500px;margin: auto;display: flex;padding-top: 500px}
+
+
+.wrap2{width: 50%;}
+.main_2{color: blue; line-height:100px;font-size: 4.5rem;
+	font-weight: 600;text-align: left;margin: auto;margin:0;
+	position: sticky; top:0;}
+.le{margin-bottom: 50px;margin-top: 50px}
+
+.wrap2-2{width:50%;margin-right: 0}
+.top_2{position: sticky;top:0;text-align: center;font-size: 2rem;padding: 20px}
+.main_2-2{font-weight: 500;font-size: 1.7rem;text-align: left;margin-top: 10px;
+	color: black;margin-top: 30px;color: darkslategray;line-height:50px}
+
+.main_3{color: blue; line-height:100px;font-size: 4.5rem;
+	font-weight: 600;text-align: left;margin: auto;margin:0; margin-top: 700px}
+
+
+.br{position: sticky; top:0;}
+.main_3-2{color: blue; line-height:100px;font-size: 4.5rem;
+	font-weight: 600;text-align: right;margin: auto;margin:0;}
+.main_3-3{font-weight: 500;font-size: 1.7rem;text-align: right;
+	color: black;margin-top: 60px;color: darkslategray;line-height:50px}
+
+.Sec_4{margin-top: 500px}
+.main_4{color: blue; line-height:100px;font-size: 4.5rem;
+	font-weight: 600;text-align: left;margin: auto;margin:0;padding-top: 200px;
+	margin-bottom:200px }
+.main_4-1{font-weight: 500;font-size: 1.7rem;text-align: center;
+	color: black;margin-top: 60px;color: darkslategray;line-height:50px}
+
+.fi{margin-top: 100px}
+
+.main_F{color: white; line-height:100px;font-size: 4rem;
+	font-weight: 600;text-align: left;margin: auto;margin:0;
+	padding-top: 100px;padding-bottom: 100px}
+
+.wrap_F1{width: 1500px;margin: auto;display: flex;}
+.main_F2{font-weight: 500;font-size: 1.5rem;text-align: left;margin-top: 10px;
+	color: black;margin-top: 100px;color: white;line-height:50px}
+.main_F3{font-weight: 500;font-size: 1.5rem;text-align: left;margin-top: 10px;
+	color: black;margin-top: 60px;color: white;line-height:50px}
